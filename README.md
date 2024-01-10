@@ -1,7 +1,7 @@
 # Training-MSOfficeOffensiveTradecraft
 Info related to the Outflank training: Microsoft Office Offensive Tradecraft
 
-_come back at a later moment - more information will follow shortly_
+_work in progress - you can start already but more information will follow shortly_
 
 # Virtual Machine prep
 We recommend you to prepare a virtual machine before the training starts. Having a VM with the proper tools allows you to do the assignments during the training.
