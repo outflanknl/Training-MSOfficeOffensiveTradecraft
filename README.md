@@ -9,6 +9,7 @@ We recommend you to prepare a virtual machine before the training starts. Having
 Prepping your VM:
 - Take a x64 Windows VM as base, we tested on Server 2022 but any recent version might be ok
 - Install Office 64 bit, we tested with version 2016 but any recent version might be ok
+    - You can find an installer config xml in the ```Office-install``` directory. Run your Office installer as following: ```setup.exe /configure Config.xml```
 - Install .Net 3.5 (https://learn.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows)
 - Install .Net 4.8 (https://go.microsoft.com/fwlink/?linkid=2088631)
 - Disable built-in Defender: For example with powershell to remove: ```Uninstall-WindowsFeature -Name Windows-Defender``` or click through the configuration settings to leave installed but disabled.
