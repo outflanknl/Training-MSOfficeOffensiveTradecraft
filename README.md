@@ -1,7 +1,6 @@
 # Training-MSOfficeOffensiveTradecraft
 Info related to the Outflank training: Microsoft Office Offensive Tradecraft
 
-_work in progress - you can start already but more information will follow shortly_
 
 # Virtual Machine prep
 We recommend you to prepare a virtual machine before the training starts. Having a VM with the proper tools allows you to do the assignments during the training.
@@ -23,4 +22,4 @@ Prepping your VM:
 - Install PE Studio Free version (https://www.winitor.com/download)
 - Install The Systinternals Suite (https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 - Install Flexhex (http://www.heaventools.com/flexhex-hex-editor.htm)
-- Download assignments from *follows later*
+- Download assignments from *follows later during the training*
