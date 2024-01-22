@@ -22,4 +22,4 @@ Prepping your VM:
 - Install PE Studio Free version (https://www.winitor.com/download)
 - Install The Systinternals Suite (https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 - Install Flexhex (http://www.heaventools.com/flexhex-hex-editor.htm)
-- Download assignments from *follows later during the training*
+- **ASSIGNMENT FILES**: Download the ```assignments.zip``` file to your test machine and unzip.
