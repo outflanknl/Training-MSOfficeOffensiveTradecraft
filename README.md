@@ -11,7 +11,6 @@ Prepping your VM:
     - You can find an installer config xml in the ```Office-install``` directory that may help in some cases. To use, run your Office installer as following: ```setup.exe /configure Config.xml``` - if this fails (could be many reasons to), just run the Office installer manually.
 - Install .Net 3.5 (https://learn.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows)
 - Install .Net 4.8 (https://go.microsoft.com/fwlink/?linkid=2088631)
-- Disable built-in Defender: For example with powershell to remove: ```Uninstall-WindowsFeature -Name Windows-Defender``` or click through the configuration settings to leave installed but disabled.
 - Install Python version 3.8.10 (https://www.python.org/downloads/release/python-3810/) 
 - Install python PIP (```py -m ensurepip --upgrade```)
 - Install python pip packages oletools and olefile (```py -m pip install oletools olefile```)
